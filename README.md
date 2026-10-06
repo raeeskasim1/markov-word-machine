@@ -2,9 +2,7 @@
 
 Train a tiny next-word sampler on a paragraph and watch its word transitions invent new combinations.
 
-## Run
-
-Open `index.html` in a modern browser. HTML, CSS, and JavaScript are all in that file. No server, packages, internet connection, API key, build step, or downloaded model is required.
+https://raeeskasim1.github.io/markov-word-machine/
 
 ## Try it
 
